@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Diagrama_Clases:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Diagrama_Clases_jar</output-path>
+    <root id="archive" name="Diagrama_Clases.jar">
+      <element id="module-output" name="Diagrama_Clases" />
+    </root>
+  </artifact>
+</component>
